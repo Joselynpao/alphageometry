@@ -1,4 +1,4 @@
-
+https://github.com/google-deepmind/alphageometry.git
 # Solving Olympiad Geometry without Human Demonstrations
 
 
